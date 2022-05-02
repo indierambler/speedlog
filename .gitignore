@@ -1,0 +1,13 @@
+# Folders to ignore
+###################
+.ipynb_checkpoints/
+.vscode/
+*__pycache__/
+
+# File types to ignore
+######################
+*.pyc
+*.csv
+
+# Files to ignore
+#################
